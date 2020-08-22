@@ -70,6 +70,8 @@ $(".output-wrapper").bind("click", ()=>{
 
 poemList=[
 function poem0(){
+	let poem="Within this"+_.sample(ADJECTIVES)+"headspace,""caught between memories of your "+_.sample(NOUNS)+"and my "+_.sample(NOUNS)+",""an idea takes shape: '"+_.sample(ADJECTIVES)+_.sample(NOUNS)+"', I think.";
+	
 	//make poem here
 	return poem
 },
