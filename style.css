@@ -83,42 +83,33 @@
 
       #poem0:hover {
         background-color: DarkSeaGreen;
-        color: GoldenRod;
       }
 
       #poem1:hover {
-        color: IndianRed;
         background-color: CornflowerBlue;
       }
 
       #poem2:hover {
-        color: SkyBlue;
         background-color: DarkSlateGrey;
-        /*transform: skew(-15deg);*/
       }
 
       #poem3:hover {
         background-color: DarkSeaGreen;
-        color: #c2e184;
       }
 
       #poem4:hover {
-        color: Salmon;
         background-color: Tan;
       }
 
       #poem5:hover {
-        color: DarkKhaki;
         background-color: LightPink;
       }
 
       #poem6:hover {
         background-color: DarkOliveGreen;
-        color: Maroon;
       }
 
       #poem7:hover {
-        color: Tomato;
         background-color: MidnightBlue;
       }
    
