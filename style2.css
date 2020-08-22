@@ -1,0 +1,60 @@
+body {
+				background-color: linen;
+				color: black;
+				position:relative;
+        margin:none;
+        padding:none;
+        cursor: crosshair;
+        width: 100%;
+        height: 100%;
+        user-select: none;
+				}
+	
+				
+			.X {
+      	position:fixed;
+      	left:94%;
+      	top:0;
+      	font-family: courier;
+      	color: black;
+      	color: DarkGray;
+      	font-size: 5em;
+      	}
+      	
+      .X:hover {
+			 	color: black;
+/*         transform: skew(-10deg); */
+        transform: rotate(-100deg);
+
+        }
+      	
+     	a:visited{
+      	color:DarkGray;
+      	text-decoration: none;
+      }
+      
+      a:hover{
+      	color: black;
+ 				transform: skew(-10deg);
+ 				}
+ 				
+ 			a:link {
+  			text-decoration: none;
+				}
+      
+      .titlequote {
+      	font-family: courier;
+      	width: 90%;
+      	margin-top:3em;
+      	margin-left: 1em;
+      }
+    
+      
+      .sources {
+      	font-family: courier;
+      	width: 90%;
+      	top:50px;
+      	margin-left: 1em;
+      	margin-top:4em;
+
+      	}
