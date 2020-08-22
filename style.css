@@ -80,36 +80,50 @@
       .poem:hover {
         cursor: pointer;
       }
+      
+     
+    
+  
 
-      #poem0:hover {
-        background-color: DarkSeaGreen;
-      }
-
+ 
       #poem1:hover {
-        background-color: CornflowerBlue;
+      	color:GoldenRod;
+        background-color: DarkSeaGreen;
       }
 
       #poem2:hover {
-        background-color: DarkSlateGrey;
+      	color: IndianRed;
+        background-color: CornflowerBlue;
       }
 
       #poem3:hover {
-        background-color: DarkSeaGreen;
+      	color: SkyBlue;
+        background-color: DarkSlateGrey;
       }
 
       #poem4:hover {
-        background-color: Tan;
+      	color: #c2e184; 
+        background-color: DarkSeaGreen;
       }
 
       #poem5:hover {
-        background-color: LightPink;
+      	color:Salmon;
+        background-color: Tan;
       }
 
       #poem6:hover {
-        background-color: DarkOliveGreen;
+      	color:DarkKhaki;
+        background-color: LightPink;
       }
 
       #poem7:hover {
+      	color:Maroon;
+        background-color: DarkOliveGreen;
+      }
+
+      #poem8:hover {
+      	color: Tomato;
         background-color: MidnightBlue;
       }
    
+ 
