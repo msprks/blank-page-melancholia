@@ -2,8 +2,8 @@
 /*     		transform: skew(-10deg); */
     		transform: rotate(-100deg);
 
-    	}	
-      
+    	}
+
       .X {
       	position:fixed;
       	left:94%;
@@ -12,7 +12,7 @@
       	text-decoration: none;
       	font-size: 5em;
       	}
-        
+
       body {
         font-family: helvetica, arial, sans-serif;
         position:relative;
@@ -23,17 +23,17 @@
         width: 100%;
         user-select: none;
       }
-      
+
       a:visited{
       	color:DarkGray;
       	text-decoration: none;
       }
-      
+
       a:hover{
       	text-decoration: none;
       	color: black;
  				}
- 				
+
  			a:link {
   			text-decoration: none;
   			color:DarkGray;
@@ -41,7 +41,7 @@
 
       h1 {
         font-style: normal;
-        color: Linen;
+        color: #FFFAFA;
         font-size: 5em;
         width:95%;
         margin-left:.25em;
@@ -53,7 +53,7 @@
       	height:100%;
       	display:none;
       }
-      
+
       .output-wrapper {
         display:block;
         color: black;
@@ -68,7 +68,7 @@
         padding:1em;
 
       }
-      
+
       .output-wrapper:hover {
         cursor: pointer;
       }
@@ -80,19 +80,19 @@
       .poem:hover {
         cursor: pointer;
       }
-      
-     
-    
-  
 
- 
+
+
+
+
+
       #poem1:hover {
-      	color:GoldenRod;
-        background-color: DarkSeaGreen;
+				color:GoldenRod;
+        background-color: Orange;
       }
 
       #poem2:hover {
-      	color: IndianRed;
+      	color: Red;
         background-color: CornflowerBlue;
       }
 
@@ -102,8 +102,8 @@
       }
 
       #poem4:hover {
-      	color: #c2e184; 
-        background-color: DarkSeaGreen;
+      	color: #c2e184;
+        background-color: Pink;
       }
 
       #poem5:hover {
@@ -113,7 +113,7 @@
 
       #poem6:hover {
       	color:DarkKhaki;
-        background-color: LightPink;
+        background-color: Purple;
       }
 
       #poem7:hover {
@@ -125,5 +125,3 @@
       	color: Tomato;
         background-color: MidnightBlue;
       }
-   
- 
