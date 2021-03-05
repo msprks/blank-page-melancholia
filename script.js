@@ -88,7 +88,7 @@ $(".output-wrapper").bind("click", ()=>{
 
 poemList=[
 function poem1(){
-	let poem = "Within this "+random(ADJECTIVES)+" headspace, caught between memories of your "+random(NOUNS)+" and my "+random(NOUNS)+", an idea takes shape: '"+random(ADJECTIVES)+" "+random(NOUNS)+"', I think.";
+	let poem = "Within this "+random(ADJECTIVES)+" headspace, caught between memories of your "+random(NOUNS)+" and my "+random(NOUNS)+", an idea forms: '"+random(ADJECTIVES)+" "+random(NOUNS)+"', I think.";
 	return poem
 },
 function poem2(){
@@ -104,7 +104,7 @@ function poem4(){
 	return poem
 },
 function poem5(){
-	let poem = "Without your "+random(NOUNS)+", I feel "+random(ADJECTIVESJJ)+".";
+	let poem = "Without the "+random(NOUNS)+", I feel "+random(ADVERBSRB)+" "+random(ADJECTIVESJJ)+".";
 	return poem
 },
 function poem6(){
