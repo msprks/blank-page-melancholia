@@ -108,7 +108,7 @@ function poem5(){
 	return poem
 },
 function poem6(){
-	let poem = "Hold on to the "+random(NOUNS)+". Remember to "+random(VERBSVB)+" and "+random(VERBSVB)+". Keep going, keep "+random(VERBSVBG)+".";
+	let poem = "Hold on to the "+random(NOUNS)+". Remember to "+random(VERBSVB)+". Keep going, keep "+random(VERBSVBG)+".";
 	return poem
 },
 function poem7(){
