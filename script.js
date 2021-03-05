@@ -112,7 +112,7 @@ function poem6(){
 	return poem
 },
 function poem7(){
-	let poem = "Look, "+random(VERBSVB)+", blink, "+random(VERBSVB)+".</br> Watch as I "+random(VERBSVB)+".";
+	let poem = "Look, "+random(VERBSVB)+", blink, "+random(VERBSVB)+". Watch as I "+random(VERBSVB)+".";
 	return poem
 },
 function poem8(){
