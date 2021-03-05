@@ -95,7 +95,7 @@ function poem2(){
 	let poem = "Today I am "+random(ADJECTIVES)+". <br> Tomorrow I will be "+random(ADJECTIVES)+".";
 	return poem
 },
-function poem8(){
+function poem3(){
 	let poem = "My limbs become "+random(ADJECTIVES)+". My body becomes "+random(ADJECTIVES)+". I begin to dream of the "+random(ADJECTIVES)+" "+random(NOUNS)+".";
 	return poem
 },
@@ -108,15 +108,15 @@ function poem5(){
 	return poem
 },
 function poem6(){
-	let poem = "Hold on to the "+random(NOUNS)+". Remember to "+random(VERBSVB)+", "+random(VERBSVB)+", "+random(VERBSVB)+". Keep going, keep "+random(VERBSVBG)+".";
+	let poem = "Hold on to the "+random(NOUNS)+". Remember to "+random(VERBSVB)+" and "+random(VERBSVB)+". Keep going, keep "+random(VERBSVBG)+".";
 	return poem
 },
 function poem7(){
 	let poem = "Blink, "+random(VERBSVB)+", blink, "+random(VERBSVB)+". <br> I find myself watching the "+random(NOUNS)+".";
 	return poem
 },
-function poem3(){
-	let poem = "Close the "+random(NOUNS)+", turn off the "+random(NOUNS)+". Red "+random(NOUNS)+", warm "+random(NOUNS)+". I "+random(VERBSVB)+" while I sleep.";
+function poem9(){
+	let poem = "Close the "+random(NOUNS)+", turn off the "+random(NOUNS)+". I "+random(VERBSVB)+" while I sleep.";
 	return poem
 }
 ];
