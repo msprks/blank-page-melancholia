@@ -104,7 +104,7 @@ function poem4(){
 	return poem
 },
 function poem5(){
-	let poem = "Without the "+random(NOUNS)+", I feel "+random(ADVERBSRB)+" "+random(ADJECTIVESJJ)+".";
+	let poem = "Without the "+random(NOUNS)+", I am "+random(ADVERBSRB)+" "+random(ADJECTIVESJJ)+".";
 	return poem
 },
 function poem6(){
