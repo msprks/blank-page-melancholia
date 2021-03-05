@@ -104,7 +104,7 @@
 
       #poem4:hover {
       	color: #c2e184;
-        background-color: Pink;
+        background-color: black;
       }
 
       #poem5:hover {
@@ -245,8 +245,8 @@
 					}
 
 					#poem4:hover {
-						color: #c2e184;
-						background-color: Pink;
+		      	color: #c2e184;
+		        background-color: black;
 					}
 
 					#poem5:hover {
