@@ -115,7 +115,7 @@ function poem7(){
 	let poem = "Blink, "+random(VERBSVB)+", blink, "+random(VERBSVB)+". <br> I find myself watching the "+random(NOUNS)+".";
 	return poem
 },
-function poem9(){
+function poem8(){
 	let poem = "Close the "+random(NOUNS)+", turn off the "+random(NOUNS)+". I "+random(VERBSVB)+" while I sleep.";
 	return poem
 }
