@@ -108,7 +108,7 @@ function poem5(){
 	return poem
 },
 function poem6(){
-	let poem = "Hold on to the "+random(NOUNS)+". I'll keep "+random(VERBSVBG)+".";
+	let poem = "Hold on to the "+random(NOUNS)+". Let go of the "+random(NOUNS)+". I'll keep "+random(VERBSVBG)+".";
 	return poem
 },
 function poem7(){
